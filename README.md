@@ -2,7 +2,7 @@
 
 > # Checkpoint 01 - Edge computing
 <ul>
-<li> Gabriel Machado Belardino - </li>
+<li> Gabriel Machado Belardino - RM550121</li>
 <li> Ana Beatriz Farah Alvez - RM97865 </li>
 <li> Kaiky Alvaro de Miranda - RM98118 </li>
 <li> Lucas Rodrigues da Silva - RM98344 </li>
@@ -13,8 +13,8 @@
 
 	Para reproduzi-lo, são necessários:
 <ul>
-<li> 3 resistores vermelho-vermelho-marrom </li>
-<li> 1 resistor vermelho-preto-amarelo </li>
+<li> 3 resistores 220Ω </li>
+<li> 1 resistor 1kΩ </li>
 <li> Um sensor ldr </li>
 <li> Um buzzer </li>
 <li> 3 leds (verde, amarelo e vermelho) </li>
